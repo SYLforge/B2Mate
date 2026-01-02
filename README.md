@@ -32,7 +32,7 @@ https://docs.google.com/document/d/19myvAj9gQ_1bXFT55bMx1jBiDv_rUcoj3lZYOb5hk1U/
 
 ## 📂 설치 및 실행 방법
 
-### 1. 환경 설정
+### 환경 설정
 ```bash
 # Repository 클론
 git clone [https://github.com/SYLforge/B2Mate.git](https://github.com/SYLforge/B2Mate.git)
@@ -40,3 +40,22 @@ cd BidMate-RAG
 
 # 패키지 설치
 pip install -r requirements.txt
+```
+
+### 📂 디렉토리 구조 (Directory Structure)
+실제 데이터 파일(`data_list.csv` 및 문서 파일)은 저장소에 포함되어 있지 않습니다.
+프로젝트 실행을 위해서는 아래 구조에 맞춰 데이터를 `data/` 폴더에 위치시켜야 합니다.
+
+```text
+BidMate-RAG/
+├── app.py                  # Streamlit 웹 애플리케이션 메인
+├── 01_data_preprocessing.ipynb
+├── 02_embedding.ipynb
+├── 03_generation.ipynb
+├── requirements.txt        # 필요 라이브러리 목록
+├── README.md
+└── data/                   # [데이터 폴더]
+    ├── data_list.csv       # (필수) 메타데이터 파일 (사업명, 예산 등 포함)
+    └── processed/          # (선택) 전처리된 텍스트 문서들
+```
+
