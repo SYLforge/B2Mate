@@ -4,7 +4,7 @@
 
 > **📊 프로젝트 결과 보고서**
 > - 📄 **PDF 결과 보고서:** https://docs.google.com/document/d/19myvAj9gQ_1bXFT55bMx1jBiDv_rUcoj3lZYOb5hk1U/edit?usp=sharing
-> - 📢 **발표용 보고서:** https://docs.google.com/presentation/d/19pgIaUCeuq35bHzv2fJfzbXE43ztQ06B/edit?usp=sharing&ouid=104377410226852291494&rtpof=true&sd=true
+> - 📢 **발표용 보고서:** https://docs.google.com/presentation/d/19pgIaUCeuq35bHzv2fJfzbXE43ztQ06B
 
 ---
 
