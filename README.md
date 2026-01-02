@@ -62,3 +62,7 @@ BidMate-RAG/
     └── processed/          # (선택) 전처리된 텍스트 문서들
 ```
 
+### 실행 순서 및 파일 설명
+01_data_preprocessing.ipynb: 원본 문서를 텍스트로 변환 및 정제.
+02_embedding.ipynb: 텍스트를 임베딩하여 chroma_db 폴더 생성.
+03_generation.ipynb: RAG 로직 및 검증기 테스트
