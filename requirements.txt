@@ -1,0 +1,11 @@
+streamlit
+pandas
+torch
+transformers
+accelerate
+langchain
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+bitsandbytes
