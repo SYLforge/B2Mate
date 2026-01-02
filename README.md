@@ -2,6 +2,9 @@
 
 **Hybrid RAG & Fact Verification System for Government RFPs**
 
+## 보고서 링크 ##
+https://docs.google.com/document/d/19myvAj9gQ_1bXFT55bMx1jBiDv_rUcoj3lZYOb5hk1U/edit?usp=sharing
+
 ## 📌 프로젝트 개요
 '입찰메이트(BidMate)'는 공공기관 제안요청서(RFP)를 분석하여 컨설턴트에게 핵심 정보(예산, 일정, 과업 내용)를 제공하는 **AI 입찰 컨설팅 시스템**입니다.
 단순한 RAG(Retrieval-Augmented Generation)의 한계인 숫자(예산) 오류와 환각(Hallucination) 현상을 극복하기 위해, **정형 데이터(CSV)와 비정형 데이터(문서)를 결합한 Hybrid 아키텍처**를 구현했습니다.
