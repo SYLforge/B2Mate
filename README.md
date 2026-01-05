@@ -5,6 +5,7 @@
 > **📊 프로젝트 결과 보고서**
 > - 📄 **PDF 결과 보고서:** https://docs.google.com/document/d/19myvAj9gQ_1bXFT55bMx1jBiDv_rUcoj3lZYOb5hk1U/edit?usp=sharing
 > - 📢 **발표용 보고서:** https://docs.google.com/presentation/d/19pgIaUCeuq35bHzv2fJfzbXE43ztQ06B
+> - 📄 **업무 일지:**  https://www.notion.so/Daily-1-2dfd0a925d24813dac44f664b26a6b3f
 
 ---
 
